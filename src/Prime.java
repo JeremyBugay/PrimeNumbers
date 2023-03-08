@@ -55,6 +55,8 @@ public class Prime {
                 .filter(i-> isPrime(i)).boxed()
                 .forEach(i -> set.add(i));
         System.out.println(set.size());
+        ///this is a space to test git on my mac
+        //another space to see commit push
 
     }
 
